@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.laura.music",
+        "sha256_cert_fingerprints": ["34:ED:BB:1F:6E:2E:C4:69:19:01:5E:32:CA:F1:05:22:64:98:54:17:BB:49:29:68:2B:23:C8:CC:86:44:7E:37"]
+      }
+    }]
